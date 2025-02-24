@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "ReactNativeGetPhoneNumberModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.getphonenumber.ReactNativeGetPhoneNumberModule"
+    ]
+  }
+}
